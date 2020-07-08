@@ -1,0 +1,23 @@
+body {
+bgcolor: black;
+}
+
+p {
+Color: skyblue;
+Font-family: verdana;
+Font-size: 20px;
+}
+
+hr {
+color: white;
+font-size: 10px;
+}
+
+h1 {
+color: yellow;
+}
+
+img {
+ width: 200;
+height: 142;
+}
